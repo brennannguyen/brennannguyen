@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Hi, I'm Brennan Nguyen! 👋
+## About Me
+I'm an experience data analyst with a background in software services, technology, and manufcutring industries.
+I specialize in data visualization and analysis, transforming complex data into actionable insights using tools like Power BI, SQL, and Excel. 
+I graduated from the University of Oklahoma in 2020 with a Bachelor's of Business Administration in Management Information Systems and Marketing. 
+I also earned Lean Six Sigma Green Belt certification from the IASSC in 2020.
 <!--
 **brennannguyen/brennannguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
