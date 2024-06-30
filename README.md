@@ -1,7 +1,7 @@
 Hi, I'm Brennan Nguyen! 👋
 
-I'm an experienced data analyst with a background in software services, technology, and manufcutring industries. I specialize in data visualization and analysis, transforming complex data into actionable insights using tools like Power BI, SQL, and Excel. 
-I graduated from the University of Oklahoma in 2020 with a Bachelor's of Business Administration in Management Information Systems and Marketing. I also earned Lean Six Sigma Green Belt certification from the IASSC in 2020. In my free time, I enjoy cooking, yoga, reading, and pickleball. 🧘‍♀️
+I'm an experienced data analyst with a background in software services, technology, and manufacturing industries. I specialize in data visualization and analysis, transforming complex data into actionable insights using tools like Power BI, SQL, and Excel. 
+I graduated from the University of Oklahoma in 2020 with a Bachelor's of Business Administration in Management Information Systems and Marketing. I also earned a Lean Six Sigma Green Belt certification from the IASSC in 2020. In my free time, I enjoy cooking, reading, pickleball, and yoga. 🧘‍♀️
 
 **Skills**
 - **Data Analysis:** SQL, Python, R, Excel
