@@ -4,7 +4,7 @@ I'm an experienced data analyst with a background in software services, technolo
 I graduated from the University of Oklahoma in 2020 with a Bachelor's of Business Administration in Management Information Systems and Marketing. I also earned a Lean Six Sigma Green Belt certification from the IASSC in 2020. In my free time, I enjoy cooking, reading, pickleball, and yoga. 🧘‍♀️
 
 **Skills**
-- **Data Analysis:** SQL, Python, R, Excel
+- **Data Analysis:** SQL, Python, Excel
 - **Data Visualization:** Power BI, Tableau
 - **Database Management:** SQL Server, MySQL
 - **Tools:** Jupyter Notebooks, VS Code
