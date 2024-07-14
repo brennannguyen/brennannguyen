@@ -5,7 +5,7 @@ I graduated from the University of Oklahoma in 2020 with a Bachelor's of Busines
 
 **Skills**
 - **Data Analysis:** SQL, Python, Excel
-- **Data Visualization:** Power BI, Tableau
+- **Data Visualization:** Tableau, Power BI
 - **Database Management:** SQL Server, MySQL
 - **Tools:** Jupyter Notebooks, VS Code
 - **Methodologies:** Lean Six Sigma, Agile, Data Cleaning, Data Wrangling
